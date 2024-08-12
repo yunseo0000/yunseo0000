@@ -12,7 +12,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunseo0000&layout=compact&theme=tokyonight)
 
 
-## 🌟 Featured Projects
+### 🌟 Featured Projects
 
 - [**We in Jeon**](https://github.com/2024-Summer-Bootcamp-team-C)
 
