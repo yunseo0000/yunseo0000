@@ -1,6 +1,6 @@
 ## Yunseo's Github 👋 😎
 
-### 🛠️ Tech Stack
+### 🛠️ Backend Tech Stack
 
 - **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 - **Frameworks**: ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
