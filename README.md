@@ -2,7 +2,7 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svgstyle=flat&logo=java&logoColor=white)
 - **Frameworks**: ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
 - **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
 
